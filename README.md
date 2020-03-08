@@ -1,3 +1,5 @@
 # openproofs.github.io
 
-This is a test.
+To edit the front page, edit [index.md](index.md).
+
+See (modifying.md)[modifying.md] for more on how to modify this.
