@@ -11,7 +11,7 @@ expands the ideas of OSS to high assurance software.
 This website explains what open proofs are, and is also intended to
 (eventually) list examples of open proofs.
 
-See [our modification instructions](./modify.md) to learn how to contribute
+See [our modification instructions](./modifying) to learn how to contribute
 to this site!
 
 Here is a very incomplete list of known Open Proofs:
